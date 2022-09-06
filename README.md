@@ -1,6 +1,6 @@
 # file explorer
 
-[![file explorer](gett-detail.png)](https://github.com/ensoftonic/file.explorer)
+[![file explorer](gett-detail.png)](https://icncomputer.com/what-is-file-explorer/)
 
 Alternatively referred to as Windows Explorer or Explorer, File Explorer is a file browser found in every version of Microsoft Windows since Windows 95. It is used to navigate and manage the drives, folders, and files on your computer. The image below shows File Explorer in Windows 10.
 
